@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ansh Wadhwa</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate devloper from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -28,15 +28,15 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ"/> </a> 
+     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/flutter.png"</a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
-    <a href="https://github.com/simplystudios/github-readme-streak-stats">
+    <a href="https://github-readme-stats.vercel.app/api?username=simplystudios">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ansh Wadhwa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=simplystudios&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -44,8 +44,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simplystudios&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/simplystudios/github-readme-stats"><img alt="Ansh Wadhwa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplystudios&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/simplystudios/github-readme-activity-graph"><img alt="Ansh Wadhwa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simplystudios&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -70,6 +70,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=simplystudios">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/simplystudios?label=Followers&style=social" alt="GitHub Badge"></a>
