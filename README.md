@@ -41,7 +41,9 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github/Coding Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simplystudios&bg_color=#1F1B24title_color=#1F1B24text_color=#121212&icon_color=#1F1B24)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simplystudios&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
