@@ -46,7 +46,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simplystudios&bg_color=#1F1B24title_color=#1F1B24text_color=#121212&icon_color=#1F1B24)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simplystudios&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ansh Wadhwa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simplystudios&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/simplystudios/github-readme-stats"><img alt="Ansh Wadhwa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplystudios&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -66,7 +66,7 @@
 <a href = "https://www.linkedin.com/in/simply-studios-336aab1b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AnshWadhwa8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/anshwadhwa8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UCZQJXbKIQ-u5X3lK6QgEK2Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
