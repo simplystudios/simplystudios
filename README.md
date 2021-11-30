@@ -63,7 +63,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/simply-studios-336aab1b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ansh-wadhwa-336aab1b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AnshWadhwa8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/anshwadhwa8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCZQJXbKIQ-u5X3lK6QgEK2Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
