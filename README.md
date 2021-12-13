@@ -1,22 +1,19 @@
 
-<h1 align="center">Hi <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
+<h1 align="center">Hey there <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
 <h3 align="center">I'm a passionate devloper from India.</h3>
-![68747470733a2f2f692e6962622e636f2f676735673877772f6f75747075742d6f6e6c696e65676966746f6f6c732e676966](https://user-images.githubusercontent.com/76025286/145764467-8f12e111-6041-4659-a7b3-55438a8698fd.gif)
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](not yet public)**
-
-- 🌱 I’m currently learning **Dart.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 I’m currently working on my website **Simplehead**
+ 
+- 🌱 I’m currently learning **JS**
 
 - 👨‍💻 All of my projects are available at **Here**
 
 - 📫 How to reach me **new.anshwadhwa@gmail.com**
 
-- ⚡ Fun fact **I play games very often.**
+- ❤️ The Place I love is **Ocean**
 
 ## 🚀 Languages and Tools:
 
