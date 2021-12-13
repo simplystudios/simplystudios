@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ansh Wadhwa</h1>
+<h1 align="center">Hi <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
 <h3 align="center">I'm a passionate devloper from India.</h3>
+![68747470733a2f2f692e6962622e636f2f676735673877772f6f75747075742d6f6e6c696e65676966746f6f6c732e676966](https://user-images.githubusercontent.com/76025286/145764467-8f12e111-6041-4659-a7b3-55438a8698fd.gif)
 
 
 ## 🙋‍♂️ About Me
