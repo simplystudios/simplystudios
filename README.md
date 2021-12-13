@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
-<h3 align="center">I'm a passionate devloper from India.</h3>
+<h3 align="center">I'm a student from india.</h3>
 
 
 ## 🙋‍♂️ About Me
