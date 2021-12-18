@@ -4,8 +4,25 @@
 
 
 ## 🙋‍♂️ About Me
+<img align="left" src="https://avatars.githubusercontent.com/u/76025286?s=400&u=c3754f8d75980a61974755b6cd3d3ba742172d36&v=4" alt="my pfp(https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
-Hi there i am ansh wadhwa and i love web devlopment and android devlopment you can check my projects which may help you out.
+```csharp
+simplystudios@github
+-------------------------
+OS: Windows 11 
+Shell: Windows shell
+Pronouns: He/Him
+Location: Delhi, IN
+Frameworks: Javascript
+Languages: JavaScript, Python,
+           HTML, CSS
+Learning: php, python, angular,
+
+Hobbies: Drawing, Cycling, Gaming
+Commits: 169
+Stars: 7
+Discord: PunchOneMan#5720
+```
 
 ## 🚀 Languages and Tools:
 
