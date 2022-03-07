@@ -1,8 +1,7 @@
+![bannerboi](https://user-images.githubusercontent.com/76025286/157029873-004c28ca-737a-4de8-8c00-d65f29433b90.png)
 
-![istockphoto-1320330053-170667a(1)](https://user-images.githubusercontent.com/76025286/157023768-1fc5b872-a74d-4ef2-9b35-24338aa27970.png =250x250)
 
-
-<h1 align="center">Hey there <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
+<h1 align="center">Hi <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
 <h3 align="center">I'm a student from india.</h3>
 
 
