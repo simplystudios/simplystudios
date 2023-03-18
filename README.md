@@ -1,7 +1,11 @@
-![bannerboi](https://user-images.githubusercontent.com/76025286/157029873-004c28ca-737a-4de8-8c00-d65f29433b90.png)
 
 
-<h1 align="center">Hi <img src="https://i.ibb.co/gg5g8ww/output-onlinegiftools.gif" width="30px">, I'm Ansh Wadhwa</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76025286/226122298-5d04db57-4f04-4ca4-981a-4f63b8611c7b.png" />
+</p>
+
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/76025286/226121357-d520e254-bc08-4d97-b2d2-ea4ae7680ba8.gif" width="30px">, I'm Ansh Wadhwa</h1>
 <h3 align="center">I'm a student from india.</h3>
 
 
@@ -15,14 +19,13 @@ OS: Windows 11
 Shell: Windows shell
 Pronouns: He/Him
 Location: Delhi, IN
-Frameworks: Javascript
-Languages: JavaScript, Python,
-           HTML, CSS
-Learning: php, python, angular,
+Frameworks: CSS
+Languages: Python,HTML, CSS
+Learning: python,discord.py,javascript,
 
 Hobbies: Drawing, Cycling, Gaming
-Commits: 169
-Stars: 7
+Commits: 430
+Stars: 13
 Discord: PunchOneMan#5720
 ```
 
@@ -36,8 +39,11 @@ Discord: PunchOneMan#5720
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>    
 ## My Repos
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simplystudios&repo=2d-Globe-earth-in-css&theme=react)](https://github.com/simplystudios/2d-Globe-earth-in-css)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simplystudios&repo=simplehead.ga&theme=react)](https://github.com/simplystudios/simplehead.ga)
+
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
