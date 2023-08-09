@@ -1,6 +1,7 @@
 <samp>
     <h3>hey, i'm Ansh Wadhwa</h3>
     Student, Developer, and Designer Love Making New Things... ^_^
+    <br />
     I'm a 15-year-old I love making new things in different languages. 
     <br />
     <br />
