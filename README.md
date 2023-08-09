@@ -1,6 +1,7 @@
 <samp>
     <h3>hey, i'm Ansh Wadhwa</h3>
-    I'm a 15-year-old Developer I love making new things in different languages. 
+    Student, Developer, and Designer Love Making New Things... ^_^
+    I'm a 15-year-old I love making new things in different languages. 
     <br />
     <br />
     <code>Python</code> <code>Discord.py</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
