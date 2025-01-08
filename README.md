@@ -5,7 +5,7 @@
     I'm a 15-year-old I love making new things in different languages. 
     <br />
     <br />
-    <code>Python</code> <code>Discord.py</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
+    <code>Python</code> <code>Discord.py</code> <code>Svelte</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
     <br />
     <br />
     <h2></h2>
