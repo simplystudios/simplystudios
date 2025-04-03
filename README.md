@@ -17,3 +17,7 @@
     <br/>
     👤 <a href="https://discord.com/users/600278222428438559" target="_blank">@punchoneman</a>
 </samp>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
