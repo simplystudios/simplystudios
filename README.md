@@ -30,15 +30,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 101.4 kB Used in GitHub's Storage 
- > 
-> 🏆 79 Contributions in the Year 2025
+> 📦 101.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,11 +86,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Svelte                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Svelte                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 
@@ -102,6 +100,6 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 05:52:37 UTC
+ Last Updated on 04/04/2025 18:47:06 UTC
 <!--END_SECTION:waka-->
 </details>
