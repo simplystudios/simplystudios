@@ -2,31 +2,14 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # Runs at 12am IST
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Debug Secrets
-        run: |
-          echo "Checking secrets..."
-          if [[ -z "${{ secrets.GH_TOKEN }}" ]]; then
-            echo "❌ GH_TOKEN is missing!"
-            exit 1
-          else
-            echo "✅ GH_TOKEN is set."
-          fi
-          
-          if [[ -z "${{ secrets.WAKATIME_API_KEY }}" ]]; then
-            echo "❌ WAKATIME_API_KEY is missing!"
-            exit 1
-          else
-            echo "✅ WAKATIME_API_KEY is set."
-          fi
-
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
