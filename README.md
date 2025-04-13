@@ -2,7 +2,7 @@
     <h3>Hey, i'm Ansh Wadhwa</h3>
     Student, Developer, and Designer Love Making New Things... ^_^
     <br />
-    I'm a 17-year-old I love making new things in different languages. 
+    I'm 17 and I enjoy experimenting with different programming languages.
     <br />
     <br />
     <code>Python</code> <code>Discord.py</code> <code>Svelte</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
