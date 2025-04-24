@@ -1,8 +1,8 @@
 <samp href="https://anshwadhwa.vercel.app">
     <h3>Hey, i'm Ansh Wadhwa</h3>
-    Student, Developer, and Designer Love Making New Things... ^_^
+    <p>Student, Developer, and Designer — I love making cool things! ^_^</p>
     <br />
-    I'm 17 and I enjoy experimenting with different programming languages.
+    I'm 17 and I enjoy experimenting with different programming languages. (psst... I use Arch btw)
     <br />
     <br />
     <code>Python</code> <code>Discord.py</code> <code>Svelte</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
