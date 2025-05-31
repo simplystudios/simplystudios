@@ -71,20 +71,16 @@ Sunday                   87 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   99.02 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-estracknow               3 mins              ██████████░░░░░░░░░░░░░░░   39.45 % 
-StickerSmash             2 mins              ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Ytmusic-clone            1 min               █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-rhyth                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,6 +100,6 @@ Svelte                   5 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 18:49:44 UTC
+ Last Updated on 31/05/2025 18:47:14 UTC
 <!--END_SECTION:waka-->
 </details>
