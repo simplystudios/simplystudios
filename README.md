@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,6 +37,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 213.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 112 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,16 +73,21 @@ Sunday                   87 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   41 mins             █████████████████████░░░░   85.05 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+signscribe               47 mins             ████████████████████████░   97.19 % 
+Ytmusic-clone            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +107,6 @@ Svelte                   5 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:47:14 UTC
+ Last Updated on 01/06/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 </details>
