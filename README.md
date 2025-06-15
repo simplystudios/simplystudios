@@ -5,7 +5,7 @@
     I'm 17 and I enjoy experimenting with different programming languages. (psst... I use Arch btw)
     <br />
     <br />
-    <code>Python</code> <code>Discord.py</code> <code>Svelte</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
+    <code>Typescript</code> <code>Python</code> <code>Discord.py</code> <code>Svelte</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
     <br />
     <br />
     <h2></h2>
