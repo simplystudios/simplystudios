@@ -9,7 +9,7 @@
     <br />
     <br />
     <h2></h2>
-    🌎 <a href="https://simplystudios.github.io/anshwadhwa" target="_blank">My Site</a>
+    🌎 <a href="https://punchoneman.xyz" target="_blank">My Site</a>
     <br/>
     ✉️ <a href="mailto:work.awadhwa@gmail.com" target="_blank">Mail Me</a>
     <br/>
