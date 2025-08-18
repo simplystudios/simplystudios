@@ -38,8 +38,6 @@
 
 > 📦 214.1 kB Used in GitHub's Storage 
  > 
-> 🏆 141 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -102,6 +100,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2025 18:50:08 UTC
+ Last Updated on 18/08/2025 18:54:32 UTC
 <!--END_SECTION:waka-->
 </details>
