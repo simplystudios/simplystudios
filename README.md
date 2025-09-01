@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,6 +37,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 214.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 141 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,17 +73,17 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ███████████████████████░░   93.04 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+TypeScript               1 hr 13 mins        ███████████████████████░░   93.26 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-Zed                      1 hr 16 mins        █████████████████████████   100.00 % 
+Zed                      1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-martian                  1 hr 16 mins        █████████████████████████   100.00 % 
+martian                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,6 +103,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 18:46:40 UTC
+ Last Updated on 01/09/2025 18:47:34 UTC
 <!--END_SECTION:waka-->
 </details>
