@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,16 +73,18 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+Svelte                   2 hrs 44 mins       ████████████████████████░   94.17 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Zed                      7 mins              █████████████████████████   100.00 % 
+Zed                      2 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-film-finder              7 mins              █████████████████████████   100.00 % 
+Unknown Project          2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,6 +104,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2025 18:50:36 UTC
+ Last Updated on 09/10/2025 18:49:34 UTC
 <!--END_SECTION:waka-->
 </details>
