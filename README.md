@@ -73,21 +73,16 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               12 mins             ███████████████░░░░░░░░░░   59.11 % 
-CSS                      5 mins              ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Svelte                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Nutrifact                12 mins             ███████████████░░░░░░░░░░   59.61 % 
-Unknown Project          8 mins              ██████████░░░░░░░░░░░░░░░   40.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,6 +102,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 18:50:21 UTC
+ Last Updated on 17/10/2025 18:47:23 UTC
 <!--END_SECTION:waka-->
 </details>
