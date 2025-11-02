@@ -28,6 +28,8 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.7%20thousand%20lines%20of%20code-blue)
@@ -44,6 +46,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌆 Daytime                361 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌃 Evening                343 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Wednesday                136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Friday                   155 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 173 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Sunday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,6 +102,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 18:45:36 UTC
+ Last Updated on 02/11/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 </details>
