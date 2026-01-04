@@ -46,6 +46,45 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                165 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+🌆 Daytime                361 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   155 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Saturday                 173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Sunday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -63,6 +102,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:51:58 UTC
+ Last Updated on 04/01/2026 18:52:20 UTC
 <!--END_SECTION:waka-->
 </details>
