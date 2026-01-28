@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -73,18 +73,18 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      16 mins             ███████████████░░░░░░░░░░   60.49 % 
-shell script             10 mins             ██████████░░░░░░░░░░░░░░░   39.51 % 
+CSS                      23 mins             █████████████████░░░░░░░░   68.95 % 
+shell script             10 mins             ████████░░░░░░░░░░░░░░░░░   31.05 % 
 
 🔥 Editors: 
-Zed                      26 mins             █████████████████████████   100.00 % 
+Zed                      34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-config                   16 mins             ███████████████░░░░░░░░░░   60.49 % 
-Unknown Project          10 mins             ██████████░░░░░░░░░░░░░░░   39.51 % 
+config                   23 mins             █████████████████░░░░░░░░   68.95 % 
+Unknown Project          10 mins             ████████░░░░░░░░░░░░░░░░░   31.05 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,6 +104,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 19:04:24 UTC
+ Last Updated on 28/01/2026 19:01:45 UTC
 <!--END_SECTION:waka-->
 </details>
