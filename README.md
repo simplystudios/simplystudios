@@ -28,6 +28,8 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-607.78%20thousand%20lines%20of%20code-blue?style=flat)
@@ -44,6 +46,45 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌆 Daytime                365 commits         ██████████░░░░░░░░░░░░░░░   38.83 % 
+🌃 Evening                369 commits         ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Wednesday                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Friday                   155 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Saturday                 188 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Sunday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+CSS                      15 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Zed                      15 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+config                   15 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    15 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,6 +102,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:01:37 UTC
+ Last Updated on 03/02/2026 19:27:15 UTC
 <!--END_SECTION:waka-->
 </details>
