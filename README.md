@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,16 +73,19 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        █████████████████████████   100.00 % 
+JSON                     26 mins             ███████████████░░░░░░░░░░   59.85 % 
+Svelte                   14 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Zed                      1 hr 17 mins        █████████████████████████   100.00 % 
+Zed                      43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Nutrifact                1 hr 17 mins        █████████████████████████   100.00 % 
+retrosite                43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,6 +105,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2026 19:12:20 UTC
+ Last Updated on 12/04/2026 19:22:32 UTC
 <!--END_SECTION:waka-->
 </details>
