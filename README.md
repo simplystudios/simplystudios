@@ -2,7 +2,7 @@
     <h3>Hey, i'm Ansh Wadhwa</h3>
     <p>Student, Developer, and Designer — I love making cool things! ^_^</p>
     <br />
-    I'm 17 and I enjoy experimenting with different programming languages. (psst... I use Arch btw)
+    I'm 18 and I enjoy experimenting with different programming languages. (psst... I use Arch btw)
     <br />
     <br />
     <code>Typescript</code> <code>Python</code> <code>Discord.py</code> <code>Svelte</code> <code>JS</code> <code>React</code> <code>React-Native</code> <code>C++</code>
