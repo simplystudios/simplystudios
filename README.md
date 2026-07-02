@@ -13,7 +13,7 @@
     <br/>
     ✉️ <a href="mailto:work.awadhwa@gmail.com" target="_blank">Mail Me</a>
     <br/>
-    ☕️ <a href="https://buymeacoffee/anshwadhwa8" target="_blank">Buy Me A Coffee</a>
+    ☕️ <a href="https://buymeacoffee.com/anshwadhwa8" target="_blank">Buy Me A Coffee</a>
     <br/>
     👤 <a href="https://discord.com/users/600278222428438559" target="_blank">@punchoneman</a>
 </samp>
