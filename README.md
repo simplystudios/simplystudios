@@ -28,6 +28,8 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.04%20million%20lines%20of%20code-blue?style=flat)
@@ -44,6 +46,48 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+🌆 Daytime                442 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌃 Evening                487 commits         ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌙 Night                  94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Wednesday                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Thursday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Friday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Sunday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               4 hrs 35 mins       ████████████████████████░   95.41 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+Zed                      4 hrs 48 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DetroGo                  4 hrs 48 mins       █████████████████████████   99.97 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,6 +105,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:56:19 UTC
+ Last Updated on 25/07/2026 19:44:33 UTC
 <!--END_SECTION:waka-->
 </details>
