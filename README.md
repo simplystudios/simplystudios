@@ -75,19 +75,18 @@ Sunday                   142 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         █████████████████████████   98.12 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               1 hr 33 mins        ████████████████████████░   96.65 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Zed                      3 hrs 4 mins        █████████████████████████   100.00 % 
+Zed                      1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  3 hrs 4 mins        █████████████████████████   99.97 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+DetroGo                  1 hr 36 mins        █████████████████████████   99.91 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,6 +112,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:03:33 UTC
+ Last Updated on 31/07/2026 20:03:31 UTC
 <!--END_SECTION:waka-->
 </details>
