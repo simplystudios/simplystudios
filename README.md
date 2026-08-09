@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
@@ -75,18 +75,19 @@ Sunday                   154 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 55 mins        █████████████████████████   99.51 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               2 hrs 58 mins       █████████████████████████   99.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Zed                      1 hr 56 mins        █████████████████████████   100.00 % 
+Zed                      2 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  1 hr 56 mins        █████████████████████████   99.90 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+DetroGo                  2 hrs 59 mins       █████████████████████████   99.93 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,6 +113,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:09:21 UTC
+ Last Updated on 09/08/2026 19:12:38 UTC
 <!--END_SECTION:waka-->
 </details>
