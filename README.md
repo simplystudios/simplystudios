@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
@@ -75,18 +75,24 @@ Sunday                   154 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         █████████████████████████   98.08 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.63 % 
+JSON                     59 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Svelte                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Zed                      1 hr 10 mins        █████████████████████████   100.00 % 
+Zed                      3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  1 hr 10 mins        █████████████████████████   100.00 % 
+DetroGo                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
+retrosite                1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.04 % 
+Unknown Project          46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+skybrowser               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+unique                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,6 +118,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:35:53 UTC
+ Last Updated on 12/08/2026 19:38:42 UTC
 <!--END_SECTION:waka-->
 </details>
