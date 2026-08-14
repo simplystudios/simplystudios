@@ -40,7 +40,7 @@
 
 > 📦 347.9 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2026
+> 🏆 198 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +51,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-🌆 Daytime                456 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
-🌃 Evening                538 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
-🌙 Night                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌞 Morning                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+🌆 Daytime                456 commits         █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                538 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Friday                   219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Saturday                 219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Monday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
@@ -75,24 +75,24 @@ Sunday                   154 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.63 % 
-JSON                     59 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Svelte                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
+JSON                     59 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Svelte                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Zed                      3 hrs 23 mins       █████████████████████████   100.00 % 
+Zed                      3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
-retrosite                1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Unknown Project          46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-skybrowser               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-unique                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+DetroGo                  1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
+retrosite                1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Unknown Project          46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+skybrowser               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+unique                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,6 +118,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:35:39 UTC
+ Last Updated on 14/08/2026 19:30:09 UTC
 <!--END_SECTION:waka-->
 </details>
