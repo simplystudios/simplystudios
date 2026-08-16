@@ -75,24 +75,24 @@ Sunday                   154 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
-JSON                     59 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-Svelte                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     58 mins             ███████████░░░░░░░░░░░░░░   44.09 % 
+Python                   56 mins             ███████████░░░░░░░░░░░░░░   42.22 % 
+TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Svelte                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Zed                      3 hrs 16 mins       █████████████████████████   100.00 % 
+Zed                      2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
-retrosite                1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Unknown Project          46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-skybrowser               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-unique                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+retrosite                1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.39 % 
+Unknown Project          46 mins             █████████░░░░░░░░░░░░░░░░   34.62 % 
+DetroGo                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+skybrowser               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+unique                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,6 +118,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:57:32 UTC
+ Last Updated on 16/08/2026 18:57:06 UTC
 <!--END_SECTION:waka-->
 </details>
