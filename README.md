@@ -75,24 +75,16 @@ Sunday                   154 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     58 mins             ███████████░░░░░░░░░░░░░░   44.09 % 
-Python                   56 mins             ███████████░░░░░░░░░░░░░░   42.22 % 
-TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Svelte                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-retrosite                1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.39 % 
-Unknown Project          46 mins             █████████░░░░░░░░░░░░░░░░   34.62 % 
-DetroGo                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-skybrowser               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-unique                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,6 +110,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:08:32 UTC
+ Last Updated on 19/08/2026 19:04:13 UTC
 <!--END_SECTION:waka-->
 </details>
