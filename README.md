@@ -75,19 +75,16 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   2 mins              ███████████░░░░░░░░░░░░░░   44.54 % 
-JSON                     2 mins              ██████████░░░░░░░░░░░░░░░   38.25 % 
-TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-retrosite                5 mins              █████████████████████░░░░   82.79 % 
-DetroGo                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,6 +110,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:10:19 UTC
+ Last Updated on 12/09/2026 20:49:25 UTC
 <!--END_SECTION:waka-->
 </details>
