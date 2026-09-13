@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
@@ -75,16 +75,18 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             ██████████████████████░░░   88.88 % 
+TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          18 mins             ██████████████████████░░░   88.88 % 
+DetroGo                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,6 +112,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:49:25 UTC
+ Last Updated on 13/09/2026 21:03:54 UTC
 <!--END_SECTION:waka-->
 </details>
