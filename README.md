@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
@@ -75,18 +75,20 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 mins             ██████████████████████░░░   88.88 % 
-TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Python                   28 mins             ████████████████░░░░░░░░░   63.76 % 
+JSON                     13 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Zed                      21 mins             █████████████████████████   100.00 % 
+Zed                      44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          18 mins             ██████████████████████░░░   88.88 % 
-DetroGo                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Unknown Project          18 mins             ███████████░░░░░░░░░░░░░░   42.62 % 
+DetroGo                  16 mins             █████████░░░░░░░░░░░░░░░░   36.24 % 
+Facial-Emotion-Recognitio9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,6 +114,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:39:52 UTC
+ Last Updated on 16/09/2026 21:34:25 UTC
 <!--END_SECTION:waka-->
 </details>
