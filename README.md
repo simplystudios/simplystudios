@@ -38,34 +38,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 348.1 kB Used in GitHub's Storage 
+> 📦 347.8 kB Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2026
+> 🏆 188 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 50 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-🌆 Daytime                461 commits         █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌃 Evening                539 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌞 Morning                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                457 commits         █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌃 Evening                527 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Saturday                 221 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Wednesday                215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Saturday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
 
@@ -75,20 +75,19 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   28 mins             ████████████████░░░░░░░░░   63.76 % 
-JSON                     13 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+JSON                     13 mins             ███████████████░░░░░░░░░░   58.23 % 
+Python                   9 mins              ██████████░░░░░░░░░░░░░░░   40.62 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Zed                      44 mins             █████████████████████████   100.00 % 
+Zed                      23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          18 mins             ███████████░░░░░░░░░░░░░░   42.62 % 
-DetroGo                  16 mins             █████████░░░░░░░░░░░░░░░░   36.24 % 
-Facial-Emotion-Recognitio9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+DetroGo                  13 mins             ███████████████░░░░░░░░░░   59.38 % 
+Facial-Emotion-Recognitio9 mins              ██████████░░░░░░░░░░░░░░░   40.62 % 
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,11 +99,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Svelte                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Svelte                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
@@ -114,6 +113,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:56:04 UTC
+ Last Updated on 20/09/2026 21:00:38 UTC
 <!--END_SECTION:waka-->
 </details>
