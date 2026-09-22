@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
@@ -75,16 +75,18 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     13 mins             ███████████████░░░░░░░░░░   58.23 % 
-Python                   9 mins              ██████████░░░░░░░░░░░░░░░   40.62 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JSON                     13 mins             ██████████████░░░░░░░░░░░   57.93 % 
+Python                   9 mins              ██████████░░░░░░░░░░░░░░░   40.70 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
 Zed                      23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  13 mins             ███████████████░░░░░░░░░░   59.38 % 
-Facial-Emotion-Recognitio9 mins              ██████████░░░░░░░░░░░░░░░   40.62 % 
+DetroGo                  13 mins             ███████████████░░░░░░░░░░   59.22 % 
+Facial-Emotion-Recognitio9 mins              ██████████░░░░░░░░░░░░░░░   40.42 % 
+RSSI-Sensor-Test-ESP     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
 Mac                      23 mins             █████████████████████████   100.00 % 
@@ -113,6 +115,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:09:00 UTC
+ Last Updated on 22/09/2026 21:35:54 UTC
 <!--END_SECTION:waka-->
 </details>
