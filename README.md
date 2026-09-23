@@ -75,21 +75,19 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     13 mins             ██████████████░░░░░░░░░░░   57.93 % 
-Python                   9 mins              ██████████░░░░░░░░░░░░░░░   40.70 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   7 mins              █████████████████████████   99.30 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Zed                      23 mins             █████████████████████████   100.00 % 
+Zed                      7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  13 mins             ███████████████░░░░░░░░░░   59.22 % 
-Facial-Emotion-Recognitio9 mins              ██████████░░░░░░░░░░░░░░░   40.42 % 
-RSSI-Sensor-Test-ESP     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+RSSI-Sensor-Test-ESP     7 mins              █████████████████████████   99.30 % 
+DetroGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -115,6 +113,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:35:54 UTC
+ Last Updated on 23/09/2026 21:41:36 UTC
 <!--END_SECTION:waka-->
 </details>
