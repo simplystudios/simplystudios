@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
@@ -75,19 +75,19 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   99.30 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               1 hr 12 mins        ███████████████████████░░   91.08 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 🔥 Editors: 
-Zed                      7 mins              █████████████████████████   100.00 % 
+Zed                      1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RSSI-Sensor-Test-ESP     7 mins              █████████████████████████   99.30 % 
-DetroGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+DetroGo                  1 hr 11 mins        ███████████████████████░░   91.06 % 
+RSSI-Sensor-Test-ESP     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,6 +113,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:41:36 UTC
+ Last Updated on 24/09/2026 21:43:29 UTC
 <!--END_SECTION:waka-->
 </details>
