@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,22 +75,20 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ███████████████████░░░░░░   76.34 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Svelte                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript               1 hr 12 mins        █████████████████████░░░░   82.44 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Svelte                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Zed                      1 hr 34 mins        █████████████████████████   100.00 % 
+Zed                      1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DetroGo                  1 hr 23 mins        ██████████████████████░░░   88.31 % 
-RSSI-Sensor-Test-ESP     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-retrosite                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+DetroGo                  1 hr 23 mins        ████████████████████████░   95.37 % 
+retrosite                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,6 +114,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:28:00 UTC
+ Last Updated on 29/09/2026 22:32:22 UTC
 <!--END_SECTION:waka-->
 </details>
