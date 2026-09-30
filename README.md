@@ -48,55 +48,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                458 commits         █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌃 Evening                527 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
-🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Wednesday                215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████████████████░░░░   82.44 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Svelte                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-
-🔥 Editors: 
-Zed                      1 hr 27 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-DetroGo                  1 hr 23 mins        ████████████████████████░   95.37 % 
-retrosite                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-
-💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -114,6 +65,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:32:22 UTC
+ Last Updated on 30/09/2026 22:30:28 UTC
 <!--END_SECTION:waka-->
 </details>
