@@ -48,6 +48,57 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+🌆 Daytime                458 commits         █████████░░░░░░░░░░░░░░░░   35.39 % 
+🌃 Evening                527 commits         ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Wednesday                215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 11 mins             █████████████████░░░░░░░░   69.54 % 
+Svelte                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+
+🔥 Editors: 
+Zed                      16 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DetroGo                  11 mins             ██████████████████░░░░░░░   70.67 % 
+retrosite                4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+RSSI-Sensor-Test-ESP     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+
+💻 Operating System: 
+Mac                      16 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -65,6 +116,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:30:28 UTC
+ Last Updated on 01/10/2026 22:51:39 UTC
 <!--END_SECTION:waka-->
 </details>
