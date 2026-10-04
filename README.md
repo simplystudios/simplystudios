@@ -28,9 +28,9 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -75,31 +75,31 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 7 mins        ██████████████████████░░░   89.62 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Svelte                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript               3 hrs 10 mins       ██████████████████████░░░   89.76 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Svelte                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Zed                      2 hrs 57 mins       █████████████████████░░░░   84.73 % 
-Antigravity Desktop      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Zed                      3 hrs               █████████████████████░░░░   84.93 % 
+Antigravity Desktop      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 2 mins        ██████████████████████░░░   87.24 % 
-kinjajoy                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-retrosite                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Unknown Project          3 hrs 2 mins        ██████████████████████░░░   86.09 % 
+kinjajoy                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+retrosite                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 content.js               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 flowerScene.js           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (23.23%)
+⏱ AI Coding Time: 51 mins (24.23%)
 
 ✍️ 3,700 lines written by AI, 119 lines written by hand (96.88% AI-written)
 
@@ -136,6 +136,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:40:14 UTC
+ Last Updated on 04/10/2026 21:48:09 UTC
 <!--END_SECTION:waka-->
 </details>
