@@ -75,31 +75,31 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 10 mins       ██████████████████████░░░   89.76 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Svelte                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JavaScript               3 hrs 10 mins       ███████████████████████░░   91.51 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Zed                      3 hrs               █████████████████████░░░░   84.93 % 
-Antigravity Desktop      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Zed                      2 hrs 56 mins       █████████████████████░░░░   84.64 % 
+Antigravity Desktop      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 2 mins        ██████████████████████░░░   86.09 % 
-kinjajoy                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-retrosite                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Unknown Project          3 hrs 2 mins        ██████████████████████░░░   87.77 % 
+kinjajoy                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 content.js               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 flowerScene.js           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+DetroGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (24.23%)
+⏱ AI Coding Time: 51 mins (24.71%)
 
 ✍️ 3,700 lines written by AI, 119 lines written by hand (96.88% AI-written)
 
@@ -136,6 +136,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:48:09 UTC
+ Last Updated on 06/10/2026 00:15:40 UTC
 <!--END_SECTION:waka-->
 </details>
