@@ -75,10 +75,10 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 10 mins       ███████████████████████░░   91.51 % 
+JavaScript               3 hrs 10 mins       ███████████████████████░░   91.54 % 
 CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
@@ -86,14 +86,14 @@ Zed                      2 hrs 56 mins       ███████████�
 Antigravity Desktop      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 2 mins        ██████████████████████░░░   87.77 % 
+Unknown Project          3 hrs 2 mins        ██████████████████████░░░   87.79 % 
 kinjajoy                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 content.js               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 flowerScene.js           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-DetroGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+letter.js                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,6 +136,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:45:55 UTC
+ Last Updated on 07/10/2026 23:16:29 UTC
 <!--END_SECTION:waka-->
 </details>
