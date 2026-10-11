@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.07%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,18 +75,17 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 mins              ██████████████████░░░░░░░   70.13 % 
-JavaScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+TypeScript               8 mins              █████████████████████████   99.60 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Zed                      9 mins              █████████████████████████   100.00 % 
+Zed                      8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bunk_and_flunk           6 mins              ██████████████████░░░░░░░   70.13 % 
-kinjajoy                 2 mins              ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+bunk_and_flunk           8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,6 +111,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:57:06 UTC
+ Last Updated on 11/10/2026 22:19:16 UTC
 <!--END_SECTION:waka-->
 </details>
