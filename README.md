@@ -75,7 +75,7 @@ Sunday                   157 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        █████████████████████░░░░   82.16 % 
+TypeScript               1 hr 44 mins        █████████████████████░░░░   82.17 % 
 Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
@@ -85,7 +85,7 @@ Zed                      2 hrs 6 mins        ███████████�
 Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-miragefrontend           1 hr 47 mins        █████████████████████░░░░   84.43 % 
+miragefrontend           1 hr 47 mins        █████████████████████░░░░   84.44 % 
 DetroGo_Muticity         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 cities                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
@@ -98,7 +98,7 @@ Mac                      2 hrs 6 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (10.63%)
+⏱ AI Coding Time: 13 mins (10.62%)
 
 ✍️ 0 lines written by AI, 600 lines written by hand (0.0% AI-written)
 
@@ -135,6 +135,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 06:49:58 UTC
+ Last Updated on 10/11/2026 23:39:40 UTC
 <!--END_SECTION:waka-->
 </details>
