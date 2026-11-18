@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,8 +75,8 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.13 % 
-Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   32.65 % 
+TypeScript               1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
+Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   32.66 % 
 JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
@@ -85,11 +85,11 @@ Markdown                 18 mins             █░░░░░░░░░░�
 Zed                      5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mirage-backend           1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-mirage-frontend          1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Unknown Project          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+mirage-backend           1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.28 % 
+mirage-frontend          1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Unknown Project          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 files-mentioned-by-the-us22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-miragefrontend           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+miragefrontend           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
 Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
@@ -98,7 +98,7 @@ Mac                      5 hrs 14 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (57.8%)
+⏱ AI Coding Time: 3 hrs 1 min (57.82%)
 
 ✍️ 4,261 lines written by AI, 381 lines written by hand (91.79% AI-written)
 
@@ -135,6 +135,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 01:58:41 UTC
+ Last Updated on 18/11/2026 01:11:04 UTC
 <!--END_SECTION:waka-->
 </details>
