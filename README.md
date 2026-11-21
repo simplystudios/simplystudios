@@ -75,57 +75,55 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   35.42 % 
-Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+TypeScript               1 hr 17 mins        █████████████████░░░░░░░░   66.04 % 
+JavaScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Zed                      5 hrs 2 mins        █████████████████████████   100.00 % 
+Zed                      1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mirage-backend           1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.52 % 
-mirage-frontend          1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Unknown Project          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-files-mentioned-by-the-us22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-mirage-frontend-temp     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+mirage-frontend          1 hr 36 mins        █████████████████████░░░░   82.08 % 
+mirage-backend           20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (56.2%)
+⏱ AI Coding Time: 1 hr 27 mins (74.31%)
 
-✍️ 4,261 lines written by AI, 381 lines written by hand (91.79% AI-written)
+✍️ 1,545 lines written by AI, 10 lines written by hand (99.36% AI-written)
 
-🔤 1,489,812 Input Tokens, 245,332 Output Tokens
+🔤 947,166 Input Tokens, 113,617 Output Tokens
 
-💵 $33.72 Estimated AI Cost This Week
+💵 $14.35 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-GPT                      4,306 lines         █████████████████████████   100.00 % 
+GPT                      1,575 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.79% of written lines came from AI
-📄 Detailed Prompter — average 824 characters per prompt
+🤖 AI-Driven — 99.36% of written lines came from AI
+📄 Detailed Prompter — average 633 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 14.38% of changed lines were hand-edited
+🚀 High AI Trust — 9.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Svelte                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+HTML                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
@@ -135,6 +133,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 00:07:32 UTC
+ Last Updated on 21/11/2026 23:32:55 UTC
 <!--END_SECTION:waka-->
 </details>
