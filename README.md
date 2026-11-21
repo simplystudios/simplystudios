@@ -75,45 +75,45 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
-Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   32.66 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+TypeScript               1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   35.42 % 
+Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-Zed                      5 hrs 14 mins       █████████████████████████   100.00 % 
+Zed                      5 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mirage-backend           1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.28 % 
-mirage-frontend          1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Unknown Project          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-files-mentioned-by-the-us22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-miragefrontend           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+mirage-backend           1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.52 % 
+mirage-frontend          1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+Unknown Project          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+files-mentioned-by-the-us22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+mirage-frontend-temp     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (57.82%)
+⏱ AI Coding Time: 2 hrs 49 mins (56.2%)
 
 ✍️ 4,261 lines written by AI, 381 lines written by hand (91.79% AI-written)
 
-🔤 1,971,513 Input Tokens, 357,054 Output Tokens
+🔤 1,489,812 Input Tokens, 245,332 Output Tokens
 
-💵 $37.88 Estimated AI Cost This Week
+💵 $33.72 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 15 AI Prompts
+🧠 9 AI Sessions, 14 AI Prompts
 
 GPT                      4,306 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 91.79% of written lines came from AI
-📄 Detailed Prompter — average 963 characters per prompt
+📄 Detailed Prompter — average 824 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 14.38% of changed lines were hand-edited
 ```
@@ -135,6 +135,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:48:53 UTC
+ Last Updated on 21/11/2026 00:07:32 UTC
 <!--END_SECTION:waka-->
 </details>
