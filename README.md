@@ -75,45 +75,24 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        █████████████████░░░░░░░░   66.04 % 
-JavaScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               9 mins              █████████████████████████   99.83 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Zed                      1 hr 57 mins        █████████████████████████   100.00 % 
+Zed                      9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mirage-frontend          1 hr 36 mins        █████████████████████░░░░   82.08 % 
-mirage-backend           20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+mirage-frontend          9 mins              █████████████████████████   99.83 % 
+mirage-backend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (74.31%)
-
-✍️ 1,545 lines written by AI, 10 lines written by hand (99.36% AI-written)
-
-🔤 947,166 Input Tokens, 113,617 Output Tokens
-
-💵 $14.35 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 6 AI Prompts
-
-GPT                      1,575 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📄 Detailed Prompter — average 633 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.01% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -133,6 +112,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:32:55 UTC
+ Last Updated on 22/11/2026 23:45:44 UTC
 <!--END_SECTION:waka-->
 </details>
