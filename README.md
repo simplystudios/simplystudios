@@ -28,17 +28,19 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 482.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 213 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,41 +75,43 @@ Sunday                   164 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 mins              ████████████████░░░░░░░░░   62.32 % 
-Other                    1 min               ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   27 mins             █████████████░░░░░░░░░░░░   50.32 % 
+TypeScript               14 mins             ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-Zed                      4 mins              █████████████████████████   100.00 % 
+Zed                      1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mirage-backend           4 mins              █████████████████████████   99.28 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-mirage-frontend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+mirage-backend           38 mins             ██████████████░░░░░░░░░░░   54.36 % 
+mirage-frontend          32 mins             ███████████░░░░░░░░░░░░░░   45.61 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (27.54%)
+⏱ AI Coding Time: 1 hr 7 mins (95.27%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 171,525 Input Tokens, 4,264 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.29 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 591 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 313 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -128,6 +132,6 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simplystudios/simplystudios/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 02:44:42 UTC
+ Last Updated on 26/11/2026 01:55:42 UTC
 <!--END_SECTION:waka-->
 </details>
